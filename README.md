@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**skun0/skun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const skuno = {
+  name: "Skuno",
+  age: "13",
+  focus: "Full Stack Development",
+  passions: ["Coding, Gaming"],
+  techStack: {
+    languages: ["JavaScript, C++, Python, Rust"],
+  },
+  currentFocus: "Full-Stack Developement",
+  learning: "Everything I can, all at once",
+};
