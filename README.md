@@ -1,11 +1,11 @@
 const skuno = {
   name: "Skuno",
-  age: "13",
+  age: 13,
   focus: "Full Stack Development",
-  passions: ["Coding, Gaming"],
+  passions: ["Coding", "Gaming"],
   techStack: {
-    languages: ["JavaScript, C++, Python, Rust"],
+    languages: ["JavaScript", "C++", "Python", "Rust"]
   },
-  currentFocus: "Full-Stack Developement",
-  learning: "Everything I can, all at once",
+  currentFocus: "Full-Stack Development",
+  learning: "Everything I can, all at once"
 };
