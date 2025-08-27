@@ -16,6 +16,7 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Rust](https://img.shields.io/badge/-Rust-F7DF1E?logo=rust&logoColor=black&style=flat) (⚠️Learning)   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) (⚠️Learning)   
 
 **Tools & Frameworks:**  
