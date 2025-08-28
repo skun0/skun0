@@ -20,10 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) (⚠️Learning)   
 
 **Tools & Frameworks:**  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) (⚠️Learning)  
 ![Discord API](https://img.shields.io/badge/-Discord%20API-5865F2?logo=discord&logoColor=white&style=flat)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat) (⚠️Learning)  
-
 ---
 
 ## 📈 GitHub Stats  
