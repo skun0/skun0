@@ -16,9 +16,10 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![Rust](https://img.shields.io/badge/-Rust-F7DF1E?logo=rust&logoColor=black&style=flat)    
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![Rust](https://img.shields.io/badge/-Rust-F7DF1E?logo=rust&logoColor=black&style=flat)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
 
 **Tools & Frameworks:**  
 ![Discord API](https://img.shields.io/badge/-Discord%20API-5865F2?logo=discord&logoColor=white&style=flat)  
