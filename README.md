@@ -1,42 +1,48 @@
-# 👋 Hey there, I'm **Skuno**  
+<h2 id="welcome-to-my-world">Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
+<h3 id="hello-im-brijesh-dhanani-a-full-stack-developer-from-india">Hello! I’m Skuno a 13 Years old Full Stack Developer from Italy.</h3>
+<h3 id="portfolio-httpsskunoclick">Portfolio: <a href="https://skun0.github.io">https://skuno.click</a></h3>
+<a href="https://discord.com/users/1094935665952702534">
+  <img align="left" alt="Skuno" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">
+</a>
+<br>
+<br>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+<h3 id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
+<br>
+<p>
+  <a href="https://github.com/skun0">
+    <img src="https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp&link=https://github.com/skun0" alt="C#">
+  </a>
+  <a href="https://github.com/skun0">
+    <img src="https://img.shields.io/badge/-Unity-black?style=flat&logo=unity&link=https://github.com/skun0" alt="Unity">
+  </a>
+  <a href="https://github.com/skun0">
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/skun0" alt="JavaScript">
+  </a>
+  <a href="https://github.com/skun0">
+    <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/skun0" alt="Python">
+  </a>
+</p>
+<p>
+  <a href="https://github.com/skun0">
+    <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&link=https://github.com/skun0" alt="Node.js">
+  </a>
+  <a href="https://github.com/skun0">
+    <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/skun0" alt="WordPress">
+  </a>
+  <a href="https://github.com/skun0">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/skun0" alt="HTML5">
+  </a>
+  <a href="https://github.com/skun0">
+    <img src="https://img.shields.io/badge/-JSON-02569B?style=flat&logo=json&link=https://github.com/skun0" alt="JSON">
+  </a>
+</p>
 
-💻 **Full-Stack Developer | 13 Years old**  
-🚀 Always building, learning, and experimenting with new tech!  
-
----
-
-## 🌟 About Me  
-- 🔥 Passionate about **automation, tools, and creative coding**  
-- 🌍 Love exploring **new technologies and frameworks**  
-- ⚡ Fun fact: *I can spend hours tweaking a script to make it run 0.1s faster*    
-
----
-
-## 🌐 Tech Stack  
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![Rust](https://img.shields.io/badge/-Rust-F7DF1E?logo=rust&logoColor=black&style=flat)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
-
-**Tools & Frameworks:**  
-![Discord API](https://img.shields.io/badge/-Discord%20API-5865F2?logo=discord&logoColor=white&style=flat)  
----
-
-## 📈 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skun0&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skun0&layout=compact&theme=radical)  
-
----
-
-## 📊 Activity Graph  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skun0&theme=react-dark)  
-
----
-
-## 🔗 Connect With Me  
-Email: salvatorerusso.dev@gmail.com
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skun0&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="skun0's GitHub Stats">
+</p>
+</p>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=skun0" alt="visitor badge">
+</p>
+<hr>
