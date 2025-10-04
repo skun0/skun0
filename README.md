@@ -27,15 +27,6 @@
   <a href="https://github.com/skun0">
     <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&link=https://github.com/skun0" alt="Node.js">
   </a>
-  <a href="https://github.com/skun0">
-    <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/skun0" alt="WordPress">
-  </a>
-  <a href="https://github.com/skun0">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/skun0" alt="HTML5">
-  </a>
-  <a href="https://github.com/skun0">
-    <img src="https://img.shields.io/badge/-JSON-02569B?style=flat&logo=json&link=https://github.com/skun0" alt="JSON">
-  </a>
 </p>
 
 <p align="center">
