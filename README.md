@@ -1,6 +1,6 @@
 <h2 id="welcome-to-my-world">Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
 <h3 id="hello-im-brijesh-dhanani-a-full-stack-developer-from-india">Hello! I’m Skuno a Full Stack Developer from Italy.</h3>
-<h3 id="portfolio-httpsskunoclick">Portfolio: <a href="https://skun0.github.io">https://skuno.click</a></h3>
+<h3 id="portfolio-httpsskunoclick">Portfolio: <a href="https://skun0.github.io">https://salvatorerusso.xyz</a></h3>
 <a href="https://discord.com/users/1094935665952702534">
   <img align="left" alt="Skuno" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">
 </a>
