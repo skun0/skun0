@@ -1,10 +1,6 @@
 <h2>Hi, I'm <i>Skuno 👋</i></h2>
 
 <p>
-Java Developer focused on <b>Minecraft Spigot Development</b> and custom server systems.
-</p>
-
-<p>
 <img src="https://img.shields.io/github/followers/skun0?style=social">
 <img src="https://img.shields.io/github/stars/skun0?style=social">
 </p>
