@@ -35,6 +35,7 @@ C#
 Python
 PHP
 JavaScript
+Kotlin
 ```
 
 **Frameworks & Tools**
