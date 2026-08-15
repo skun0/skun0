@@ -40,6 +40,7 @@ JavaScript
 **Frameworks & Tools**
 ```
 Spigot
+Paper
 Velocity
 Bukkit API
 Gradle
@@ -52,3 +53,4 @@ MySQL
 ### `~$ cat Contact`
 
 🌐 Portfolio: https://skxno.xyz
+📧 E-Mail: skunooo@proton.me
