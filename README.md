@@ -21,6 +21,7 @@ Currently working on:
 
 ```
 ☕ Java Minecraft Plugin Development
+👨‍💻 Learning Cybersecurity
 ```
 
 ---
