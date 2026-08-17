@@ -17,7 +17,7 @@ Contact
 
 ### `~$ cat About`
 
-Currently working on:
+Currently:
 
 ```
 ☕ Java Minecraft Plugin Development
