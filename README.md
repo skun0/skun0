@@ -4,7 +4,7 @@
 ```bash
 
 root@skun0:~# cat /sys/manifesto.log
-> privacy is not a privilege.
+> privacy is a myth.
 > surveillance should not be the default.
 > your data is yours.
 
