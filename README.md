@@ -4,9 +4,9 @@
 ```bash
 
 root@skun0:~# cat /sys/manifesto.log
-> Privacy is not a privilege.
-> Surveillance should not be the default.
-> Your data is yours.
+> privacy is not a privilege.
+> surveillance should not be the default.
+> your data is yours.
 
 root@skun0:~# cat /sys/info.log
 > more about me: https://skxno.xyz
@@ -20,6 +20,8 @@ root@skun0:~# cat /sys/info.log
   <img src="https://img.shields.io/badge/RESEARCHING-0x02-8b0000?style=for-the-badge&labelColor=0a0a0f"/>
   <img src="https://img.shields.io/badge/EXPERIMENTING-0x03-ff1f1f?style=for-the-badge&labelColor=0a0a0f"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:8b0000,100:ff1f1f&height=220&section=header&text=ACTIVITY&fontSize=82&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=root%40classified%20%C2%B7%20access%20level%20%3A%20DENIED&descSize=17&descAlign=55&descAlignY=58&stroke=ff1f1f" width="100%"/>
 
 ```bash
 root@skun0:~# cat /sys/stack.log
