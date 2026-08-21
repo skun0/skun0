@@ -21,7 +21,7 @@ root@skun0:~# cat /sys/info.log
   <img src="https://img.shields.io/badge/EXPERIMENTING-0x03-ff1f1f?style=for-the-badge&labelColor=0a0a0f"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:8b0000,100:ff1f1f&height=220&section=header&text=ACTIVITY&fontSize=82&fontColor=ffffff&animation=twinkling&fontAlignY=36&descSize=17&descAlign=55&descAlignY=58&stroke=ff1f1f" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:8b0000,100:ff1f1f&height=220&section=header&text=STACK&fontSize=82&fontColor=ffffff&animation=twinkling&fontAlignY=36&descSize=17&descAlign=55&descAlignY=58&stroke=ff1f1f" width="100%"/>
 
 ```bash
 root@skun0:~# cat /sys/stack.log
