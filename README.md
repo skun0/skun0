@@ -10,7 +10,7 @@ root@skun0:~# cat /sys/manifesto.log
 
 root@skun0:~# cat /sys/info.log
 > more about me: https://skxno.xyz
-> focus: cybersecurity · privacy · developing
+> interests: cybersecurity · privacy · developing
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A0000,100:FF1F1F&height=220&section=header&text=ACTIVITY&fontSize=82&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&descSize=17&descAlign=55&descAlignY=58&stroke=FF1F1F" width="100%"/>
@@ -19,5 +19,13 @@ root@skun0:~# cat /sys/info.log
   <img src="https://img.shields.io/badge/LEARNING-0x01-ff1f1f?style=for-the-badge&labelColor=0a0a0f"/>
   <img src="https://img.shields.io/badge/RESEARCHING-0x02-8b0000?style=for-the-badge&labelColor=0a0a0f"/>
   <img src="https://img.shields.io/badge/EXPERIMENTING-0x03-ff1f1f?style=for-the-badge&labelColor=0a0a0f"/>
-  <img src="https://img.shields.io/badge/SECURING-0x04-8b0000?style=for-the-badge&labelColor=0a0a0f"/>
 </p>
+
+```bash
+root@skun0:~# cat /sys/stack.log
+
+> languages :: Java, Python, PHP, JavaScript, C#, C++, Gradle, Paper, Spigot, NMS, MySQL
+> environments :: Linux · Windows
+```
+
+<sub><code>// encrypted by skun0 · 2026 </code></sub>
